@@ -36,4 +36,30 @@ Project Description: I am conducting a heuristic evaluation of two websites desi
 
 ## Website #2: [SeeLink](https://www.seelink.app/)
 
+![A screenshot of the webpage SeeLink, an application designed for collaborative link-sharing](https://github.com/aergithub/HeuristicsEvaluationDH110/blob/8279334f47d4d2c38db5dc4d7bd9554cbf1f1417/Screen%20Shot%202023-04-11%20at%204.10.45%20AM.png)
 
+**Brief description:** This is the website of a web and mobile application “SeeLink” that allows users to save and share links through collaborative boards. It brands itself as the first link sharing and collaboration platform to be used between teams, friends, families, and communities. There are two main pages: account and home, in which you can share and tag links, navigate through your saved links and boards, and see what boards have been shared with you. 
+
+**Overall evaluation:** he website is rudimentary at best and has a lot of room for improvement to make it visibly appealing and easy to navigate and organize your uploads. One of the biggest concerns is that you can only view your four most recently uploaded links in a visual format, and that there is no place to navigate to see everything you’ve uploaded. The same goes for any saved links, as well. 
+
+## Heuristic Evaluation
+
+**Heuristic #1:** *Visibility of system status.* There seems to be a lack of a status update when you upload a link to your profile. Rather than a notification or pop-up that lets you know the link has been uploaded, the page refreshes. Only when you scroll down to the section titled “My Links” do you get confirmation that your link has been saved to your profile. **Severity rating: 3.**
+
+**Heuristic #2:** *Match between system and the real world.* Each action you can take on the website is articulated by a word or symbol that is easily understood and relatable to said action. The website logo is a chain link, a symbol used for URLs; the main page to share links is accompanied by a question to tag the post or share the post with a board; tags, owners, and the option to bookmark/save the link is available on the link’s icon. **Severity rating: 1.**
+
+**Heuristic #3:** *User control and freedom.* It seems that when a link has already been added to the section “my links” without being added to a board, it cannot be added to a board without being re-uploaded. **Severity rating: 3.**
+
+**Heuristic #4:** *Consistency and standards.* Rather than incorporating visible menu options or a navigation bar as you typically would see, your organized links (through sections entitled “My Links,” “My Boards,” “Shared with Me,” and “Saved”) are visible only when you scroll down from the screen that asks “What do you want to share today?” Additionally, when you navigate to the profile icon to see a section entitled “My Account,” you only see statistics of the number of links added, boards created, and boards shared with you. You do not see the number of links shared, nor are you able to view a collection of these links/boards. This differs from the home page, as it incorporates visual icons for each link/board. **Severity rating: 3.** 
+
+**Heuristic #5:** *Error prevention.* Given the inability to review any links uploaded outside of the four most recently uploaded/saved, or those added to a board, there should be a confirmation that you want to upload a link without any tags or being shared to a board, that way the user is aware their action is resulting in them (1) not being able to save the already uploaded link to a board but also (2) not being able to find said link after additional uploads unless there is a recollection of the links’ title. **Severity rating: 2.**
+
+**Heuristic #6:** *Recognition rather than recall.* Under the “My Links” section visible on the home page, only the four most recently added links are visible. Other than that, there seems to be no place to view all of your added links, unless they were shared with a board. **Severity rating: 3.**
+
+**Heuristic #7:** *Flexibility and efficiency of use.* The application is quite simplistic and does not seem to have any particular shortcuts nor is there a help section to reveal any helpful courses of actions in regards to site navigation. **Severity rating: 2.** 
+
+**Heuristic #8:** *Aesthetic and minimalist design.* The website has a focused purpose and therefore has little beyond the absolute necessary to navigate the site. **Severity rating: 0.**
+
+**Heuristic #9:** *Help users recognize, diagnose, and recover from errors.* Any action to delete a board, pin, or account enables a pop-up that asks if you’re certain you want to commit said action. The button indicating that you want to follow through the action is in bright red. **Severity rating: 0.** 
+
+**Heuristic #10:** *Help and documentation.* There is no FAQ, help center, or contact information for the website. The user is then subjected to try and figure out whatever issue they may have trouble with on their own. **Severity rating: 3.** 

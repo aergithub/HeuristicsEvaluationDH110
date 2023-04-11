@@ -12,6 +12,8 @@ Project Description: I am conducting a heuristic evaluation of two websites desi
 
 **Overall evaluation:** The website satisfies the minimal requirements for easy navigation through the application. Some tabs, like “saves” “articles” “favorites” “highlights” “collections” and “videos” can seem redundant or unclear as to their purpose upon first navigation but as you test out adding links to your saved collection the distinction between the tabs becomes clearer. 
 
+## Heuristic Evaluation
+
 **Heuristic #1:** *Visibility of system status.* All of the links (articles, videos, songs, etc.) are visible within the “saves” tab which you can easily navigate to through three lines in the left-hand corner. However, the tags, words in which you can categorize articles by, are not visible on the article’s symbol. Additionally, when you navigate to the “all tags,” only the tag (as a word) is pictured for you to navigate through, rather than sample images of what articles you’ve saved to each tab. **Severity rating: 2.**
 
 **Heuristic #2:** *Match between system and the real world.* There is an option to “recommend” an article with commentary, only visible when you click to share an article. There is no visible clue as to where the recommendations go or who is able to view the recommendation. **Severity rating: 2.**
@@ -31,3 +33,7 @@ Project Description: I am conducting a heuristic evaluation of two websites desi
 **Heuristic #9:** *Help users recognize, diagnose, and recover from errors.* There seems to be few errors you can make on the application. Any major action is accompanied by a notification in green alerting you of your action. **Severity rating: 0.**
 
 **Heuristic #10:** *Help and documentation.* When you navigate to your icon, you can click on a “get help” tab that has instructions based on how you are using the application. This includes getting started on your device, tagging, bulk editing, and every action you can perform on the platform. **Severity rating: 0.**
+
+## Website #2: [SeeLink](https://www.seelink.app/)
+
+
